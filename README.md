@@ -16,10 +16,10 @@ Coding:computer: | Photography:camera: | Biking:bike:
 <font color=#FF4500>1. </font>[东北电力大学图书检索平台](https://github.com/weixusheng/Neepu_BookSearch)  用户量 10k
 项目平台: 微信小程序 + Python Flask
 
-<font color=#FF4500>2. </font>东北电力大学经济管理学院教务管理系统
+<font color=#FF4500>2. </font>东北电力大学经济管理学院教务管理系统<br>
 项目平台: LAMP
 
-<font color=#FF4500>4. </font>东北电力大学机械学院水轮机三维仿真系统
+<font color=#FF4500>4. </font>东北电力大学机械学院水轮机三维仿真系统<br>
 项目平台: Unity
 
 ## 向往的研究方向 : 电力物联网

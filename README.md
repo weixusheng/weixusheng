@@ -10,7 +10,6 @@ Coding:computer: | Photography:camera: | Biking:bike:
 2020届优秀毕业生
 
 ## 考研
-一战跨考华北电力计算机失败
 二战ing
 
 ## 个人项目

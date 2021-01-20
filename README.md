@@ -11,7 +11,7 @@ Coding:computer: | Photography:camera: | Biking:bike:
 ## 考研
 二战ing
 
-## 个人项目
+## 参与项目
 <font color=#FF4500>1. </font>[东北电力大学图书检索平台](https://github.com/weixusheng/Neepu_BookSearch)  用户量 10k<br>
 项目平台: 微信小程序 + Python Flask
 
